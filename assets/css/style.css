@@ -1,0 +1,64 @@
+body {
+	background-color: lightblue;
+}
+.container1 {
+	width: 200px;
+	height: 50px;
+	background-color: darkorange;
+	color: white;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+}
+h1 {
+	font-size: 25px;
+}
+.container2 {
+	width: 325px;
+	height: 280px;
+	background-color: beige;
+	color: green;
+	margin-top: 10px;
+	padding-top: 5px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 50px;
+}
+.container3 {
+	width: 180px;
+	height: 90px;
+	background-color: lightgreen;
+	margin-top: 5px;
+	float: left;
+}
+.container4 {
+	width: 70px;
+	height: 90px;
+	background-color: aquamarine;
+	float: left;
+	margin-left: 5px;
+	margin-top: 5px;
+}
+.container5 {
+	width: 200px;
+	height: 20px;
+	color: white;
+	background-color: green;
+	float: right;
+	padding-bottom: 20px;
+	padding-left: 5px;
+}
+.container6 {
+	width: 205px;
+	height: 120px;
+	color: white;
+	background-color: green;
+	margin-top: 50px;
+	margin-left: 553px;
+}
+
+
+
+
+
+
